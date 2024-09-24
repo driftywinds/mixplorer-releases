@@ -7,6 +7,10 @@ MiXplorer updates are annoying (the in-app update downloads the latest version a
 
 Under no circumstance do I mean to not credit the original author of the app Hootan Parsa, who has put in their hardwork to make this app from scratch. My goal is to provide the builds in good faith for people who need the features of auto-updates of this app with Obtanium, as I had been privately doing for friends and family already.
 
+P.S. You can use my AMOLED Black theme for MiXplorer in two ways: -
+1. by copying the contents [here](https://raw.githubusercontent.com/driftywinds/mixplorer-releases/refs/heads/main/driftys_Midnight_(AMOLED_Black)_Theme_(Skin)_for_MiXplorer.mic) and pasting them in the Settings > Skins > Add > Clipboard menu in the app, OR
+2. by downloading the file and importing it from MiXplorer itself.
+
 ----
 
 ## Star History
