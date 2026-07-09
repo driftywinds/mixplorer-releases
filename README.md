@@ -3,7 +3,7 @@ Repository for the releases of the file explorer app MiXplorer.
 
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/mixplorer-releases/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/mixplorer-releases/total?style=for-the-badge) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/mixplorer-releases/latest/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/mixplorer-releases/latest/total?style=for-the-badge) 
 
-[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png"
+[<img src="https://raw.githubusercontent.com/driftywinds/driftywinds/refs/heads/main/Images/custom_badge_obtainium.png"
     alt="Get it on Obtanium"
     height="75">](https://github.com/driftywinds/mixplorer-releases/releases)
 
@@ -19,9 +19,10 @@ P.S. You can use my AMOLED Black theme for MiXplorer in two ways: -
 
 Some other projects of mine: - 
 
-[<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=spotify-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
-    alt="Spotify builds"
-    height="120">](https://github.com/driftywinds/spotify-builds)
+[<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=instagram-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+    alt="Instagram Releases"
+    height="120">](https://github.com/driftywinds/instagram-builds)
+&nbsp;
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=yt-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="YT builds"
     height="120">](https://github.com/driftywinds/yt-builds)
