@@ -39,4 +39,10 @@ Some other projects of mine: -
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=driftywinds/mixplorer-releases&type=Date)](https://star-history.com/#driftywinds/mixplorer-releases&Date)
+<a href="https://www.star-history.com/?repos=driftywinds%2Fmixplorer-releases&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=driftywinds/mixplorer-releases&type=date&theme=dark&legend=top-left&sealed_token=hD0AQWB4JVGjNV5xvmsd3-zNfEVf7jo8-PZi35Sr_QktZ4R70Qk_smCFMy48w1SlPAF5Fg2-RuaCLSJ3PRKz2ZVwDqwgI2daUdJlLZ0jAncdZZS_PXOxxw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=driftywinds/mixplorer-releases&type=date&legend=top-left&sealed_token=hD0AQWB4JVGjNV5xvmsd3-zNfEVf7jo8-PZi35Sr_QktZ4R70Qk_smCFMy48w1SlPAF5Fg2-RuaCLSJ3PRKz2ZVwDqwgI2daUdJlLZ0jAncdZZS_PXOxxw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=driftywinds/mixplorer-releases&type=date&legend=top-left&sealed_token=hD0AQWB4JVGjNV5xvmsd3-zNfEVf7jo8-PZi35Sr_QktZ4R70Qk_smCFMy48w1SlPAF5Fg2-RuaCLSJ3PRKz2ZVwDqwgI2daUdJlLZ0jAncdZZS_PXOxxw" />
+ </picture>
+</a>
